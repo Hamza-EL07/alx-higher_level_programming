@@ -1,2 +1,2 @@
-#!/usr/bi/bash
+#!/usr/bin/bash
 python3 $PYFILE
